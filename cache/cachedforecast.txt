@@ -1,0 +1,16 @@
+2022-01-01
+Będzie padać
+2022-01-02
+Nie będzie padać
+2022-01-03
+Nie będzie padać
+2022-01-04
+Będzie padać
+2022-02-05
+Będzie padać: Lekki przelotny deszcz.
+2022-02-08
+Będzie padać: Opady śniegu z deszczem.
+2022-02-10
+Nie będzie padać
+2022-02-12
+Będzie padać: Silne opady śniegu.
